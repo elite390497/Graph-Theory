@@ -1,0 +1,13 @@
+﻿  test_kcores.cpp
+D:\Freelancer tasks\graph_Theory\New folder\Research_Essens\ESSENS\Core\Basic_IO\PreProcess\Level0\check_type.hpp(35,9): warning C4101: 'd': unreferenced local variable
+D:\Freelancer tasks\graph_Theory\New folder\Research_Essens\ESSENS\Core\Basic_IO\PreProcess\Level2\translate_from_input.hpp(77,11): warning C4101: 'intStr': unreferenced local variable
+D:\Freelancer tasks\graph_Theory\New folder\Research_Essens\Example\test_kcores.cpp(126,27): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+D:\Freelancer tasks\graph_Theory\New folder\Research_Essens\Example\test_kcores.cpp(296,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Freelancer tasks\graph_Theory\New folder\Research_Essens\ESSENS\Core\Basic_SetOps\Level0\compare_elements.hpp(47): warning C4715: 'compare': not all control paths return a value
+D:\Freelancer tasks\graph_Theory\New folder\Research_Essens\ESSENS\Core\Basic_SetOps\Level0\compare_elements.hpp(19): warning C4715: 'compare<double>': not all control paths return a value
+D:\Freelancer tasks\graph_Theory\New folder\Research_Essens\ESSENS\Core\Basic_SetOps\Level0\compare_elements.hpp(19): warning C4715: 'compare<int>': not all control paths return a value
+  graph_kcores.vcxproj -> D:\Freelancer tasks\graph_Theory\New folder\Research_Essens\x64\Debug\graph_kcores.exe
